@@ -8,10 +8,14 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  ark:
-  starknet:
-  starknet_provider:
-  secure_store:
+  ark_old:
+    path: ../ark
+  starknet_old:
+    path: ../starknet
+  starknet_provider_old:
+    path: ../starknet_provider
+  secure_store_old:
+    path: ../secure_store
   bip39: ^1.0.6
   easy_debounce: ^2.0.3
   expandable: ^5.0.1
