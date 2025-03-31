@@ -1,4 +1,4 @@
-name: secure_store
+name: secure_store_old
 description: Zero-config wallet components for starknet
 version: 0.1.2
 homepage: https://github.com/gabsn/starknet.dart/tree/main/packages/secure_store
